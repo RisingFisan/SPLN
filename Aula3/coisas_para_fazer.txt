@@ -1,0 +1,3 @@
+meter ficheiro de nomes na diretoria ~/.PLN
+programa aceitar argumentos no terminal
+aceitar ainda uma opção '-n' em que em vez de mandar para fora o texto com as etiquetas mandar só os nomes
